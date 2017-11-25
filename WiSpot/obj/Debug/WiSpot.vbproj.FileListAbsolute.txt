@@ -1,0 +1,11 @@
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\bin\Debug\WiSpot.exe.config
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\bin\Debug\WiSpot.exe
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\bin\Debug\WiSpot.pdb
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\bin\Debug\WiSpot.xml
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\obj\Debug\WiSpot.WiSpot.resources
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\obj\Debug\WiSpot.Resources.resources
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\obj\Debug\WiSpot.vbproj.GenerateResource.Cache
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\obj\Debug\WiSpot.exe
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\obj\Debug\WiSpot.xml
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\obj\Debug\WiSpot.pdb
+c:\users\mek\documents\visual studio 2013\Projects\WiSpot\WiSpot\obj\Debug\WiSpot.AboutBox.resources
